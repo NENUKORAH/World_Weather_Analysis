@@ -66,7 +66,7 @@ The start and end city is Suffolk. See dataframe image below;
 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/81701640/119924545-c98a5e00-bf41-11eb-9125-66d39f4e5e63.png)
 
-** Nnaemeka Enukorah **
+**Nnaemeka Enukorah**
 
-** May 29th, 2021 **
+**May 29th, 2021**
 
