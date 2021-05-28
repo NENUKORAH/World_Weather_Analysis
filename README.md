@@ -52,12 +52,21 @@ The image is shown below;
 
 Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
 
-The four cities are Bud, Westport, Havelock, and Crestview all located in the United States of America.
+The four cities are Suffolk, Havelock, Salinas and Bud all located in the United States of America.
 
-The travel itenery is plotted in map as shown below;
+The start and end city is Suffolk. See dataframe image below;
 
-![WeatherPy_travel_map](https://user-images.githubusercontent.com/81701640/119922477-de64f280-bf3d-11eb-970d-1690ce71ea27.png)
+![fourcity](https://user-images.githubusercontent.com/81701640/119924594-e45cd280-bf41-11eb-9d76-9d67f6afdb12.png)
+
+### Vacation Itinary Map
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/81701640/119924530-c1cab980-bf41-11eb-83df-1c269944d83a.png)
+
+### Marker Layer Map
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/81701640/119924545-c98a5e00-bf41-11eb-9125-66d39f4e5e63.png)
 
 ** Nnaemeka Enukorah **
+
 ** May 29th, 2021 **
 
