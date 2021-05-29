@@ -12,11 +12,11 @@ With the aid of Google Maps Directions API, I will create a travel route between
 
 ### Resources
 
-Data Source: weatherPy_vacation.csv, WeatherPy_database.csv, Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
+**Data Source:** weatherPy_vacation.csv, WeatherPy_database.csv, Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
 
-Software: Python 3.7.6, Visual Studio Code 1.56.0, Anaconda 4.9.2, Jupyter Notebook 6.1.4, Matplotlip 3.3.2, Request Library 2.24.0.
+**Software:** Python 3.7.6, Visual Studio Code 1.56.0, Anaconda 4.9.2, Jupyter Notebook 6.1.4, Matplotlip 3.3.2, Request Library 2.24.0.
 
-APIs: Open Weather Map, Directions API, Google Geocoding API, Google Maps JavaScript API, Google Places API.
+**APIs:** Open Weather Map, Directions API, Google Geocoding API, Google Maps JavaScript API, Google Places API.
 
 ## Project Results
 
